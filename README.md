@@ -1,4 +1,4 @@
-# Privacy Policy For Sofi
+# Privacy Policy For LocalMiner
 
 ## What is a Privacy Policy
 
