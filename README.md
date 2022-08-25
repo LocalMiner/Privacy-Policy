@@ -13,6 +13,7 @@ We are very much aware about how important privacy is for our users. We take a l
 ### DATA WE COLLECT
 
 By using the app you understand, and consent us to, collect the following data:
+- Your Ip Address to Track Your City Country And Continent Name
 - Your Github Username 
 (to verify supporter role)
 
