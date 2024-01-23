@@ -13,8 +13,11 @@ We are very much aware about how important privacy is for our users. We take a l
 ### DATA WE COLLECT
 
 By using the app you understand, and consent us to, collect the following data:
-- Your Ip Address to Track Your City Country And Continent Name
-- Your Github Username 
+- Your Github Username
+- Your Discord Avatar
+- Your Discord Id
+- Your Discord Username
+- Your Current Time
 (to verify supporter role)
 
 ### HOW WE USE YOUR DATA
@@ -23,19 +26,23 @@ Your data is used to provide essential features in the discord Support Server. F
 
 ### WHO HAS ACCESS
 
-Only the owner and the developers of the app have access to your data. Under no circumstance, anyone other than the mentioned above staff will be provided access to it. We take adequate measures to keep it safe and secured. We will never sell or share your information with a third party.
+Only the owner and the developers of the app have access to your data. Under no circumstance, anyone other than the mentioned above staff will be provided access to it. We take adequate measures to keep it safe and secure. We will never sell or share your information with a third party.
 
 ### DATA DELETION
 
-Any user can request us to delete their data by joining the support server at [discord.gg](https://discord.gg/R8k6a8BdGd). It can take upto 48 hours to remove your information from the database and backups. We will still retain the user IDs of the playersr who are blacklisted from the app and Discord Support to prevent them from exploiting it.
+Any user can request us to delete their data by joining the support server at [discord.gg](https://discord.gg/R8k6a8BdGd). It can take upto 48 hours to remove your information from the database and backups. We will still retain the user IDs of the players who are blacklisted from the app and Discord Support to prevent them from exploiting it.
 
 ### IS LOCALMINER USING MY HARDWARE
 
-We Dont Use Your Hardware LocalMiner is Acutally a web browser healping you Run Minecraft on your localmachine , we dont use your hardware in any money making sence (no mineing , crypto software (mining software)) is in link with LocalMiner. Make Sure You Install The Orginal Version Only For A Safe environment. 
+We Dont Use Your Hardware LocalMiner is Actually a web browser that helps you Run Minecraft on your local machine, we don't use your hardware in any money-making sence (no mining, crypto software (mining software)) is in link with LocalMiner. Make Sure You Install The Orginal Version Only For A Safe Environment. 
 
 ### POLICY UPDATES
 
-Any future changes or updates to this policy, will be made aware of to our users. Keep an eye on this space to check for our policy and give us feedback to what we could do better. Feel free to contact us in our support server if you have any questions regarding our privacy policy.
+Any future changes or updates to this policy will be made aware of by our users. Keep an eye on this space to check for our policy and give us feedback on what we could do better. Feel free to contact us on our support server if you have any questions regarding our privacy policy.
+
+### EXTRA
+
+by installing Localminer user already agreed to [Eula](https://www.minecraft.net/en-us/eula) Minecraft terms and conditions.
 
 ## Developers
 
